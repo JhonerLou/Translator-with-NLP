@@ -1,0 +1,8 @@
+pathlib
+random
+string
+re
+numpy
+matplotlib
+tensorflow
+nltk
